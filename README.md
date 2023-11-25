@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Redis, Tailwind, React Native**
 
- 🚀 Coding Insight: Why did the developer go broke? Because he used up all his cache! 💸💻**
+ 🚀 Coding Insight: Why did the developer go broke? Because he used up all his cache! 💸💻
 
  </div>
  
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/synlax/synlax/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/synlax/synlax /output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
